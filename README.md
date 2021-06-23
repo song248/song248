@@ -12,6 +12,7 @@
 <h3><a id="user-content--experience" class="anchor" aria-hidden="true" href="#-experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> Experience</h3>
 <li><strong>SKInfosec</strong> - Security solution operation <em>(Feb 2021 ~)</em></li>
 <li><strong>MOEL</strong> - Cloud AI Convergence Expert Course Completion <em>(Jul 2020 ~ Dec 2020)</em></li>
+<li><strong>ROKAF</strong> - working as a Lieutenant(intelligence officer)(Mar 2017 ~ Feb 2020)</em></li>
 <li><strong>HANSEO univ.</strong> - Major: Aerospace Software Engineering <em>(Mar 2013 ~ Feb 2017)</em></li>
 
 <!--
