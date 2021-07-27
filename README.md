@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
-<li><strong>Machine Learning</strong></li><br>
+<li><strong>Data analyMachine Learning</strong></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
 <li><strong>SKInfosec</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
