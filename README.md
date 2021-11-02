@@ -9,14 +9,14 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
-<li><strong>Data analysis / Machine Learning</strong></li><br>
+<li><strong>Machine Learning</strong></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
 <li><strong>SKInfosec</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> Experience</h3>
-<li><strong>MOEL</strong> - Cloud AI Convergence Expert Course Completion <em>(Jul 2020 ~ Dec 2020)</em></li>
-<li><strong>ROKAF</strong> - working as a Lieutenant(intelligence officer)(Mar 2017 ~ Feb 2020)</em></li>
+<li><strong>MOEL</strong> - Cloud AI Convergence Expert course completion <em>(Jul 2020 ~ Dec 2020)</em></li>
+<li><strong>ROKAF</strong> - Working as a Lieutenant(intelligence officer)(Mar 2017 ~ Feb 2020)</em></li>
 <li><strong>HANSEO univ.</strong> - Major: Aerospace Software Engineering <em>(Mar 2013 ~ Feb 2017)</em></li>
 
 <!--
