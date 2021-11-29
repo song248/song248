@@ -14,8 +14,7 @@
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🏠</g-emoji> My Blog</h3>
-<li><strong>[Bigsong - Tistory](https://bigsong.tistory.com/)</strong></li><br>
-
+<a href="https://bigsong.tistory.com/">Bigsong - Tistory</a>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
 <li><strong>SKInfosec</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
