@@ -17,11 +17,13 @@
 <li><strong><a href="https://bigsong.tistory.com/">Bigsong - Tistory</a></strong></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
-<li><strong>SKInfosec</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
+<li><strong>SK Shieldus(Infosec)</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
 <li><strong><a href="https://github.com/song248/Image_Classification_EfficientNet.git">Classification Tourist sights</a></strong></li>
 <li><strong><a href="https://github.com/song248/Predict_Stock_Using-LSTM.git">Predict Stock Closing Price</a></strong></li><br>
+<li><strong><a href="https://github.com/song248/eCommerce-behavior-data-analysis.git">eCommerce behavior data analysis</a></strong></li><br>
+
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> Experience</h3>
 <li><strong>MOEL</strong> - Cloud AI Convergence Expert course completion <em>(Jul 2020 ~ Dec 2020)</em></li>
