@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
-<li><strong>Machine Learning</strong></li><br>
+<li><strong>Machine Learning</strong></li>
 <li><strong>Data Engineerin</strong></li><br>
 
 
@@ -21,7 +21,7 @@
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
 <li><strong><a href="https://github.com/song248/Image_Classification_EfficientNet.git">Classification Tourist sights</a></strong></li>
-<li><strong><a href="https://github.com/song248/Predict_Stock_Using-LSTM.git">Predict Stock Closing Price</a></strong></li><br>
+<li><strong><a href="https://github.com/song248/Predict_Stock_Using-LSTM.git">Predict Stock Closing Price</a></strong></li>
 <li><strong><a href="https://github.com/song248/eCommerce-behavior-data-analysis.git">eCommerce behavior data analysis</a></strong></li><br>
 
 
