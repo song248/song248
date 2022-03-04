@@ -10,14 +10,14 @@
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
 <li><strong>Machine Learning</strong></li>
-<li><strong>Data Engineerin</strong></li><br>
+<li><strong>Deep learning(especially image classification)</strong></li><br>
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🏠</g-emoji> My Blog</h3>
 <li><strong><a href="https://bigsong.tistory.com/">Bigsong - Tistory</a></strong></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
-<li><strong>SK Shieldus(Infosec)</strong> - Security solution operation <em>(Feb 2021 ~)</em></li><br>
+<li><strong>Study deep learning in CAU AutoML Labatory</strong><em>(Mar 2022 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
 <li><strong><a href="https://github.com/song248/Image_Classification_EfficientNet.git">Classification Tourist sights</a></strong></li>
@@ -26,6 +26,7 @@
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> Experience</h3>
+<li><strong>SK Shieldus(Infosec)</strong> - Security solution operation <em>(Feb 2021 ~ Feb 2022)</em></li><br>
 <li><strong>MOEL</strong> - Cloud AI Convergence Expert course completion <em>(Jul 2020 ~ Dec 2020)</em></li>
 <li><strong>ROKAF</strong> - Working as a Lieutenant(intelligence officer)(Mar 2017 ~ Feb 2020)</em></li>
 <li><strong>HANSEO univ.</strong> - Major: Aerospace Software Engineering <em>(Mar 2013 ~ Feb 2017)</em></li>
