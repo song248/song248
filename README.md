@@ -17,7 +17,7 @@
 <li><strong><a href="https://bigsong.tistory.com/">Bigsong - Tistory</a></strong></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
-<li><strong>Study deep learning in CAU AutoML Labatory</strong><em>(Mar 2022 ~)</em></li><br>
+<li><strong>Study Artificial Intelligence in CAU AutoML Labatory</strong><em>(Mar 2022 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
 <li><strong><a href="https://github.com/song248/Image_Classification_EfficientNet.git">Classification Tourist sights</a></strong></li>
