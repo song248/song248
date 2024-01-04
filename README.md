@@ -12,7 +12,7 @@
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
 <li><strong>Machine Learning</strong></li>
-<li><strong>Deep learning(especially Image Classification)</strong></li><br>
+<li><strong>Deep learning(especially Image Segmentation)</strong></li><br>
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🏠</g-emoji> My Blog</h3>
