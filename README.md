@@ -22,6 +22,11 @@
 <li><strong>Study Artificial Intelligence in CAU AutoML Labatory</strong><em>(Mar 2022 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
+<li><strong><a href="https://github.com/song248/Reconstruction">Application: Eyelid Length Measurement</a></strong></li>
+<li><strong><a href="https://github.com/song248/Reconstruction">Application: Object Segment & 3D Reconstruction</a></strong></li>
+<li><strong><a href="https://github.com/song248/Multi-view-classification">Tiny Object Segmentattion</a></strong></li>
+<li><strong><a href="https://github.com/song248/DCSAU-Net">Medical Image Segmentattion</a></strong></li>
+<li><strong><a href="https://github.com/song248/Multi-view-classification">Multi-view Image Classification</a></strong></li>
 <li><strong><a href="https://github.com/song248/Image_Classification_EfficientNet.git">Classification Tourist sights</a></strong></li>
 <li><strong><a href="https://github.com/song248/Predict_Stock_Using-LSTM.git">Predict Stock Closing Price</a></strong></li>
 <li><strong><a href="https://github.com/song248/eCommerce-behavior-data-analysis.git">eCommerce behavior data analysis</a></strong></li><br>
