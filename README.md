@@ -22,7 +22,7 @@
 <li><strong>Study Artificial Intelligence in CAU AutoML Labatory</strong><em>(Mar 2022 ~)</em></li><br>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
-<li><strong><a href="https://github.com/song248/Reconstruction">Application: Eyelid Length Measurement</a></strong></li>
+<li><strong><a href="https://github.com/song248/Eyelid-Length">Application: Eyelid Length Measurement</a></strong></li>
 <li><strong><a href="https://github.com/song248/Reconstruction">Application: Object Segment & 3D Reconstruction</a></strong></li>
 <li><strong><a href="https://github.com/song248/ReflexNet">Tiny Object Segmentattion</a></strong></li>
 <li><strong><a href="https://github.com/song248/Medical-Image-Segmentation">Medical Image Segmentattion</a></strong></li>
