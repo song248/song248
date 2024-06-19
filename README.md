@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
 <li><strong>Machine Learning</strong></li>
