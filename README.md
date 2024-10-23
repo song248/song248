@@ -27,12 +27,16 @@
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🔭</g-emoji> Currently Working on</h3>
-<li><strong>AI Engineer in PIAspace</strong><em>(July 2024 ~) [PIA](https://www.pia.space/)</em></li><br>
+<li><strong>AI Engineer in PIAspace</strong><em>(July 2024 ~)</em> <a href="https://www.pia.space">[PIA]</a></li><br>
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">📫</g-emoji> Accept Paper</h3>
-<li><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4705375">Effective encoder-decoder network for pupil light reflex segmentation in facial photographs of ptosis patients, Scientific Reports, 2024</a></strong></li>
-<li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1470160X24005247">Deep Semantic Segmentation Applications for Natural Disaster Detections: A Methodological Review, Ecological Indicators, 2024</a></strong></li>
+<li><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4705375">Effective encoder-decoder network for pupil light reflex segmentation in facial photographs of ptosis patients</a>, Scientific Reports, 2024</strong></li>
+<li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1470160X24005247">Deep Semantic Segmentation Applications for Natural Disaster Detections: A Methodological Review</a>, Ecological Indicators, 2024</strong></li>
+<li><strong><a href="https://www.nature.com/articles/s41598-024-51838-6">Development of a neural network-based automated eyelid measurement system</a>, Scientific Reports, 2024</strong></li>
+<li><strong><a href="https://ieeexplore.ieee.org/document/10444295">A Simple Localization and Classification Framework Based on Template Matching and Self-Attention for TAO Treatment Diagnosis</a>, ICCE, 2024</strong></li>
+<li><strong><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133134">Comparison of Deep Learning based Segmentation Models for Measuring Eyelid Contour of TAO Patients</a>, IEIE, 2022</strong></li><br>
+
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
 <li><strong><a href="https://github.com/song248/Eyelid-Length">Application: Eyelid Length Measurement</a></strong></li>
@@ -49,8 +53,12 @@
 <li><strong>Chungang University Graduate School</strong> - M.Sc. Course, Department of Artificial Intelligence,<em>(Feb 2021 ~ Feb 2022)</em></li>
 <li><strong>SK Shieldus</strong> - Security solution operation <em>(Feb 2021 ~ Feb 2022)</em></li>
 <li><strong>MOEL</strong> - Cloud AI Convergence Expert course completion <em>(Jul 2020 ~ Dec 2020)</em></li>
-<li><strong>ROKAF</strong> - Working as a Lieutenant(intelligence officer)(Mar 2017 ~ Feb 2020)</em></li>
-<li><strong>HANSEO univ.</strong> - Major: Aerospace Software Engineering <em>(Mar 2013 ~ Feb 2017)</em></li>
+<li><strong>ROKAF</strong> - Working as a Lieutenant(intelligence officer)<em>(Mar 2017 ~ Feb 2020)</em></li>
+<li><strong>HANSEO univ.</strong> - Major: Aerospace Software Engineering (Mar 2013 ~ Feb 2017)</em></li>
+
+
+<h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">⚡</g-emoji> Prize</h3>
+<li><strong><a href="https://www.yna.co.kr/view/PYH20220818139900013">B-cell epitope (linear peptide) prediction, 2022 AI Graduate School Challenge, 2022</a></strong></li><br>
 
 <!--
 **song248/song248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
