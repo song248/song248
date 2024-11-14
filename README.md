@@ -30,7 +30,7 @@
 <li><strong>AI Engineer in PIAspace</strong><em>(July 2024 ~)</em> <a href="https://www.pia.space"> [PIA]</a></li><br>
 
 
-<h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">📫</g-emoji> Accept Paper</h3>
+<h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">📫</g-emoji> Accepted Paper</h3>
 <li><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4705375">Effective encoder-decoder network for pupil light reflex segmentation in facial photographs of ptosis patients</a>, <em>Scientific Reports</em>, 2024</strong></li>
 <li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1470160X24005247">Deep Semantic Segmentation Applications for Natural Disaster Detections: A Methodological Review</a>, <em>Ecological Indicators</em>, 2024</strong></li>
 <li><strong><a href="https://www.nature.com/articles/s41598-024-51838-6">Development of a neural network-based automated eyelid measurement system</a>, <em>Scientific Reports</em>, 2024</strong></li>
