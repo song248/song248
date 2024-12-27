@@ -35,7 +35,7 @@
 <li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1470160X24005247">Deep Semantic Segmentation Applications for Natural Disaster Detections: A Methodological Review</a>, <em>Ecological Indicators</em>, 2024</strong></li>
 <li><strong><a href="https://www.nature.com/articles/s41598-024-51838-6">Development of a neural network-based automated eyelid measurement system</a>, <em>Scientific Reports</em>, 2024</strong></li>
 <li><strong><a href="https://ieeexplore.ieee.org/document/10444295">A Simple Localization and Classification Framework Based on Template Matching and Self-Attention for TAO Treatment Diagnosis</a>, <em>ICCE</em>, 2024</strong></li>
-<li><strong><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133134">Comparison of Deep Learning based Segmentation Models for Measuring Eyelid Contour of TAO Patients</a>, <em>IEIE</em>em>, 2022</strong></li><br>
+<li><strong><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133134">Comparison of Deep Learning based Segmentation Models for Measuring Eyelid Contour of TAO Patients</a>, <em>IEIE</em>, 2022</strong></li><br>
 
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💻</g-emoji> My Project</h3>
