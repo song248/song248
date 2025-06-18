@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Python](https://img.shields.io/badge/python-#3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
