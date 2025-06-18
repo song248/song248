@@ -1,23 +1,45 @@
-### Hi there 👋
-![Python](https://img.shields.io/badge/python-#3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a><br>
+## Hi there 👋
+### 🧠 Language & AI Framework
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)<br>
 
-<h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Learning</h3>
+### 📚Library
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🎨 Visualize
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230072C6.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)<br>
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?style=for-the-badge&logo=ORACLE&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+
+### 🏗️ Framework
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%23FF9900.svg?style=for-the-badge&logo=gradio&logoColor=white)<br>
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 💻 IDE
+![vscode](https://img.shields.io/badge/vscode-3776AB.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+<h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">🌱</g-emoji> Currently Interesting</h3>
 <li><strong>Vision-Language Model</strong></li>
-<li><strong>Video Retrieval</strong></li>
+<li><strong>Video Anomaly Detection</strong></li>
 <li><strong>Semantic Segmentation</strong></li>
 <li><strong>Machine Learning</strong></li><br>
 
@@ -59,18 +81,3 @@
 
 <h3><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">⚡</g-emoji> Prize</h3>
 <li><strong><a href="https://www.yna.co.kr/view/PYH20220818139900013">B-cell epitope (linear peptide) prediction</a>, 2022 AI Graduate School Challenge, 2022</strong></li><br>
-
-<!--
-**song248/song248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
